@@ -311,7 +311,7 @@
       "num": "012",
       "name": "Butterfree"
     }]
-},{
+}, {
     "id": 11,
     "num": "011",
     "name": "Metapod",
@@ -341,7 +341,7 @@
       "num": "012",
       "name": "Butterfree"
     }]
-  },{
+  }, {
     "id": 12,
     "num": "012",
     "name": "Butterfree",
@@ -376,7 +376,7 @@
       "num": "0",
       "name": "This is the final Evolution"
     }]
-  },{
+  }, {
     "id": 13,
     "num": "010",
     "name": "Weedle",
@@ -408,7 +408,7 @@
       "num": "015",
       "name": "Beedrill"
     }]
-},{
+}, {
     "id": 14,
     "num": "014",
     "name": "Kakuna",
@@ -441,7 +441,7 @@
       "num": "012",
       "name": "Beedrill"
     }]
-  },{
+  }, {
     "id": 15,
     "num": "015",
     "name": "Beedrill",
@@ -480,7 +480,7 @@
       "num": "0",
       "name": "This is the final Evolution"
     }]
-  },{
+  }, {
     "id": 16,
     "num": "016",
     "name": "Pidgey",
@@ -511,7 +511,7 @@
       "num": "018",
       "name": "Pidgeot"
   }]
-},{
+}, {
     "id": 17,
     "num": "017",
     "name": "Pidgeotto",
@@ -543,7 +543,7 @@
       "num": "018",
       "name": "Pidgeot"
     }]
-  },{
+  }, {
     "id": 18,
     "num": "018",
     "name": "Pidgeot",
@@ -581,7 +581,7 @@
       "num": "0",
       "name": "This is the final Evolution"
     }]
-  },{
+  }, {
     "id": 19,
     "num": "019",
     "name": "Rattata",
@@ -609,7 +609,7 @@
       "num": "020",
       "name": "Raticate"
     }]
-},{
+}, {
     "id": 20,
     "num": "020",
     "name": "Raticate",
@@ -640,7 +640,7 @@
       "num": "0",
       "name": "This is the final Evolution"
     }]
-  },{
+  }, {
     "id": 21,
     "num": "021",
     "name": "Spearow",
@@ -668,7 +668,7 @@
       "num": "022",
       "name": "Fearow"
     }]
-},{
+}, {
     "id": 22,
     "num": "022",
     "name": "Fearow",
@@ -699,7 +699,7 @@
       "num": "0",
       "name": "This is the final Evolution"
     }]
-  },{
+  }, {
     "id": 23,
     "num": "023",
     "name": "Ekans",
@@ -724,7 +724,7 @@
       "num": "024",
       "name": "Arbok"
     }]
-},{
+}, {
     "id": 24,
     "num": "024",
     "name": "Arbok",
@@ -752,7 +752,7 @@
       "num": "0",
       "name": "This is the final Evolution"
     }]
-  },{
+  }, {
     "id": 25,
     "num": "025",
     "name": "Pikachu",
@@ -780,7 +780,7 @@
       "num": "26",
       "name": "Raichu"
     }]
-},{
+}, {
     "id": 26,
     "num": "026",
     "name": "Raichu",
@@ -816,7 +816,7 @@
       "num": "0",
       "name": "This is the final evolution"
     }]
-  },{
+  }, {
     "id": 27,
     "num": "027",
     "name": "Sandshrew",
@@ -842,7 +842,7 @@
       "num": "028",
       "name": "Sandslash"
     }]
-},{
+}, {
     "id": 28,
     "num": "028",
     "name": "Sandslash",
@@ -871,7 +871,7 @@
       "num": "0",
       "name": "This is the final Evolution"
     }]
-  },{
+  }, {
     "id": 29,
     "num": "029",
     "name": "Nidoran Female",
@@ -900,7 +900,7 @@
       "num": "031",
       "name": "Nidoqueen"
   }]
-},{
+}, {
     "id": 30,
     "num": "030",
     "name": "Nidorina",
@@ -929,7 +929,7 @@
       "num": "031",
       "name": "Nidoqueen"
     }]
-  },{
+  }, {
     "id": 31,
     "num": "031",
     "name": "Nidoqueen",
@@ -965,7 +965,7 @@
       "num": "0",
       "name": "This is the final Evolution"
     }]
-  },{
+  }, {
     "id": 32,
     "num": "032",
     "name": "Nidoran Male",
@@ -994,7 +994,7 @@
       "num": "034",
       "name": "Nidoking"
   }]
-},{
+}, {
     "id": 33,
     "num": "033",
     "name": "Nidorino",
@@ -1023,7 +1023,7 @@
       "num": "031",
       "name": "Nidoking"
     }]
-  },{
+  }, {
     "id": 34,
     "num": "034",
     "name": "Nidoking",
@@ -1059,7 +1059,7 @@
       "num": "0",
       "name": "This is the final Evolution"
     }]
-  },{
+  }, {
     "id": 35,
     "num": "035",
     "name": "Clefairy",
@@ -1088,7 +1088,7 @@
       "num": "036",
       "name": "Clefable"
     }]
-},{
+}, {
     "id": 36,
     "num": "036",
     "name": "Clefable",
@@ -1120,7 +1120,7 @@
       "num": "0",
       "name": "This is the last evolution"
     }]
-  },{
+  }, {
     "id": 37,
     "num": "037",
     "name": "Vulpix",
@@ -1146,7 +1146,7 @@
       "num": "038",
       "name": "Ninetales"
     }]
-},{
+}, {
     "id": 38,
     "num": "038",
     "name": "Ninetales",
@@ -1175,7 +1175,7 @@
       "num": "0",
       "name": "This is the final Evolution"
     }]
-  },{
+  }, {
     "id": 39,
     "num": "039",
     "name": "Jigglypuff",
@@ -1206,7 +1206,7 @@
       "num": "040",
       "name": "Wigglytuff"
     }]
-},{
+}, {
     "id": 40,
     "num": "040",
     "name": "Wigglytuff",
@@ -1238,7 +1238,7 @@
       "num": "0",
       "name": "This is the last evolution"
     }]
-  },{
+  }, {
     "id": 41,
     "num": "041",
     "name": "Zubat",
@@ -1270,7 +1270,7 @@
       "num": "169",
       "name": "Crobat"
   }]
-},{
+}, {
     "id": 42,
     "num": "042",
     "name": "Golbat",
@@ -1303,7 +1303,7 @@
       "num": "169",
       "name": "Crobat"
     }]
-  },{
+  }, {
     "id": 43,
     "num": "043",
     "name": "Oldish",
@@ -1337,7 +1337,7 @@
       "num": "45",
       "name": "Vileplume"
     }]
-  },{
+  }, {
     "id": 44,
     "num": "044",
     "name": "Gloom",
@@ -1372,7 +1372,7 @@
       "num": "045",
       "name": "Vileplume"
     }]
-  },{
+  }, {
     "id": 45,
     "num": "045",
     "name": "Vileplume",
@@ -1405,7 +1405,7 @@
       "num": "182",
       "name": "Bellossom"
     }]
-  },{
+  }, {
     "id": 46,
     "num": "046",
     "name": "Paras",
@@ -1436,7 +1436,7 @@
       "num": "047",
       "name": "Parasect"
     }]
-},{
+}, {
     "id": 47,
     "num": "047",
     "name": "Parasec",
@@ -1469,7 +1469,7 @@
       "num": "0",
       "name": "This is the final Evolution"
     }]
-  },{
+  }, {
     "id": 48,
     "num": "048",
     "name": "Venonat",
@@ -1498,7 +1498,7 @@
       "num": "049",
       "name": "Venomoth"
     }]
-},{
+}, {
     "id": 49,
     "num": "049",
     "name": "Venomoth",
@@ -1530,7 +1530,7 @@
       "num": "0",
       "name": "This is the final Evolution"
     }]
-  },{
+  }, {
     "id": 50,
     "num": "050",
     "name": "Diglett",
@@ -1560,7 +1560,7 @@
       "num": "051",
       "name": "Dugtrio"
     }]
-},{
+}, {
     "id": 51,
     "num": "051",
     "name": "Dugtrio",
