@@ -81,7 +81,7 @@
             "id": 3,
             "num": "003",
             "name": "Venusaur",
-            "img": "assets/venasaur.png",
+            "img": "assets/venusaur.png",
             "type": [
                 "Grass",
                 "Poison"
